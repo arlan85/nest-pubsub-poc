@@ -1,0 +1,1 @@
+export { GcpConfig } from './config';
